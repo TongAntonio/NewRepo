@@ -69,7 +69,7 @@ span.psw {
        </style>
 </head>
 <body>
-             <form action="action_page.php" method="post">
+             <form action="" method="post">
 
 
   <div class="container">
