@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\database",
+    "\\database\\factories",
+    "\\database\\migrations",
+    "\\resources",
+    "\\resources\\views",
+    "\\routes",
+    "\\storage",
+    "\\tests"
+  ],
+  "SelectedNode": "\\database\\migrations\\2014_10_12_000000_create_orderFood_table.php",
+  "PreviewInSolutionExplorer": false
+}
